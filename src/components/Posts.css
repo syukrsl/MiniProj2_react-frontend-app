@@ -1,0 +1,42 @@
+/* Posts.css */
+.sorting-container {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .sort-button {
+      background-color: #bd9b3e;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    .sort-button:hover {
+      background-color: #bd9b3e;
+    }
+    .search-sort-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .search-button-container {
+      display: flex;
+      align-items: center;
+      margin-right: 40px; /* Adjust the margin to ontrol the spacing */
+    }
+    
+    .sort-button-container {
+      display: flex;
+      align-items: center;
+    }
+    
+    .sort-button {
+      background-color: #bd9b3e;
+      color: #fff;
+      margin-left: 10px;
+    }
+    
