@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css'; // Import a CSS file for styling (optional)
+import './Home.css'; 
 
 function Home() {
   return (
@@ -47,7 +47,6 @@ function Home() {
 
 function handleNewUserClick() {
   // Handle the click event for the "New User" button
-  // You can add the logic to navigate to a new user registration page or perform other actions
-}
+  }
 
 export default Home;

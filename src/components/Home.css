@@ -1,9 +1,9 @@
 .header {
   text-align: center;
   padding: 20px;
-  background-color: #a87529; /* Choose your desired background color */
-  color: #fff; /* Text color */
-  font-size: 24px; /* Adjust the font size as needed */
+  background-color: #a87529; 
+  color: #fff;
+  font-size: 24px; 
 }
 
 .container {
@@ -16,14 +16,14 @@
   border: 1px solid #ccc;
   padding: 20px;
   border-radius: 5px;
-  background-color: #f3f3f3; /* Light gray background */
+  background-color: #f3f3f3; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .login-form h3 {
   font-size: 18px;
   margin-bottom: 10px;
-  color: #bda372; /* Match the primary color */
+  color: #bda372;
 }
 
 .form-group {
@@ -33,7 +33,7 @@
 .form-group label {
   display: block;
   font-weight: bold;
-  color: #ccc998; /* Match the primary color */
+  color: #ccc998; 
 }
 
 .form-control {
@@ -45,7 +45,7 @@
 }
 
 .btn-primary {
-  background-color: #b69f6d; /* Match the primary color */
+  background-color: #b69f6d; 
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -55,15 +55,14 @@
 }
 
 .btn-primary:hover {
-  background-color: #f3d966; /* Darker shade on hover */
+  background-color: #f3d966; 
 }
 
 .forgot-password a {
-  color: #bd9b3e; /* Match the primary color */
-  text-decoration: none;
+  color: #bd9b3e; 
   transition: color 0.3s;
 }
 
 .forgot-password a:hover {
-  color: #bd9b3e; /* Darker shade on hover */
+  color: #bd9b3e;
 }

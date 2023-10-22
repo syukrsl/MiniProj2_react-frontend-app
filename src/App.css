@@ -1,34 +1,31 @@
-/* Custom beige-based colors */
 .custom-list-item {
-  background-color: #F5F5DC; /* Beige */
+  background-color: #F5F5DC; 
 }
 
 .custom-link {
-  color: #8B4513; /* Saddle Brown */
+  color: #8B4513; 
 }
 
 .custom-heading {
-  color: #CD853F; /* Peru */
+  color: #CD853F; 
 }
 
 .custom-body {
-  color: #A0522D; /* Sienna */
+  color: #A0522D; 
 }
 
 .custom-label {
-  color: #D2691E; /* Chocolate */
+  color: #D2691E; 
 }
 
 .custom-input {
-  background-color: #FFF5E1; /* Moccasin */
-  color: #000000; /* Black */
-  border-color: #A0522D; /* Sienna */
+  background-color: #FFF5E1; 
+  color: #000000; 
+  border-color: #A0522D; 
 }
 
 .custom-button {
-  background-color: #FFE4B5; /* PeachPuff */
-  color: #000000; /* Black */
+  background-color: #FFE4B5; 
+  color: #000000; 
 }
 
-/* Additional styles */
-/* You can add more custom styles here */

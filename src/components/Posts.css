@@ -1,5 +1,4 @@
-/* Posts.css */
-.sorting-container {
+    .sorting-container {
       text-align: center;
       margin-top: 20px;
     }
@@ -26,7 +25,7 @@
     .search-button-container {
       display: flex;
       align-items: center;
-      margin-right: 40px; /* Adjust the margin to ontrol the spacing */
+      margin-right: 40px; 
     }
     
     .sort-button-container {

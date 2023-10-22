@@ -3,10 +3,10 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#8B4513', // Dark brown color
+      main: '#8B4513', 
     },
     background: {
-      default: '#F5F5DC', // Beige background color
+      default: '#F5F5DC', 
     },
   },
 });
