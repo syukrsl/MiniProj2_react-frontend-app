@@ -98,10 +98,9 @@ function AddPost() {
 						</button>
 					)}
 				</div>
-				<p>See Your Posts Here Below!</p> {/* "See Your Posts" message */}
+				<p>See Your Posts Here Below!</p>
 			</form>
 
-			{/* Display newly added posts */}
 			<div className="mt-4">
 				<h3>Newly Added Posts Here:</h3>
 				<ul>
